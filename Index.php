@@ -7,7 +7,7 @@ spl_autoload_register(function($nomeDaClasse) {
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Desing Patterns</title>
+    <title>Design Patterns</title>
   </head>
   <body>
 
